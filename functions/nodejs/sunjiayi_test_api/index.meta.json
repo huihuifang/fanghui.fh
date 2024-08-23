@@ -1,0 +1,16 @@
+{
+  "apiID": "package_06ca3a__c__function_aadghkpqckcda",
+  "apiName": "sunjiayi_test_api",
+  "label": {
+    "zh_CN": "sunjiayi_test",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数s",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
