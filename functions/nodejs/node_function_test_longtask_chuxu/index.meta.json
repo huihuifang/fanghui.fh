@@ -1,0 +1,16 @@
+{
+  "apiID": "package_06ca3a__c__function_aadgfnf5mx6da",
+  "apiName": "node_function_test_longtask_chuxu",
+  "label": {
+    "zh_CN": "node function test longtask chuxu",
+    "en_US": "node function test longtask chuxu"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

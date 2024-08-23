@@ -1,0 +1,17 @@
+{
+  "apiID": "package_06ca3a__c__function_aadghkpqc3oei",
+  "apiName": "cli_create_node_functionxiugai",
+  "label": {
+    "zh_CN": "cli create node function修改",
+    "en_US": "cli create node function修改"
+  },
+  "description": {
+    "zh_CN": "自定义函数修改",
+    "en_US": "Custom Functionxiugai"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": true,
+  "longTaskMode":  false,
+  "input": [],
+  "output": []
+}

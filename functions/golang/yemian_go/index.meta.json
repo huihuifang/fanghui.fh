@@ -1,0 +1,17 @@
+{
+  "apiID": "package_06ca3a__c__function_aadghkpqc74hw",
+  "apiName": "yemian_goxiugai",
+  "label": {
+    "zh_CN": "yemian_goxiugai",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": null
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": true,
+  "longTaskMode":   false,
+  "input": [],
+  "output": []
+}
