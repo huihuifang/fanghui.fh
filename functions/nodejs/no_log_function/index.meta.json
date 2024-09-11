@@ -1,0 +1,16 @@
+{
+  "apiID": "package_f78dce__c__function_aadgujd5zyuwi",
+  "apiName": "no_log_function",
+  "label": {
+    "zh_CN": "无日志函数",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

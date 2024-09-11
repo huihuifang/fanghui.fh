@@ -1,0 +1,16 @@
+{
+  "apiID": "package_f78dce__c__function_aadgj3k5kioea",
+  "apiName": "sfunction",
+  "label": {
+    "zh_CN": "随函数",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

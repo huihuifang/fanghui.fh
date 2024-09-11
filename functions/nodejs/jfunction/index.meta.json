@@ -1,0 +1,16 @@
+{
+  "apiID": "package_f78dce__c__function_aadgj3l6h4yhu",
+  "apiName": "jfunction",
+  "label": {
+    "zh_CN": "鉴函数",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

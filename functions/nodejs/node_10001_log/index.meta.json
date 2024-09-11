@@ -1,0 +1,16 @@
+{
+  "apiID": "package_f78dce__c__function_aadgujfrcigls",
+  "apiName": "node_10001_log",
+  "label": {
+    "zh_CN": "node_10001条日志",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
