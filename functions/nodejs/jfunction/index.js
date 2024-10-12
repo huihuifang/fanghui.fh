@@ -20,5 +20,6 @@ module.exports = async function (params, context, logger) {
   logger.info(`7函数开始执行`);
   logger.info(`8函数开始执行`);
   logger.info(`9函数开始执行`);
+  
   // 在这里补充业务代码
 }
