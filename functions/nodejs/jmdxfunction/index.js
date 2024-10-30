@@ -17,4 +17,5 @@ logger.info(`${new Date()} 函数开始执行2`);
 logger.info(`records: ${JSON.stringify(records)}`);
 
   // 在这里补充业务代码
+  return{"梁今硕":"15237992506"}
 }
